@@ -32,6 +32,10 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
+Below is an example of how to view and use voila.
+
+![Viola](videos/voila_example.mov)
+
 ---
 
 ## Contributors
