@@ -34,7 +34,7 @@ Before running the application first install the following dependencies.
 
 Below is an example of how to view and use voila.
 
-![Viola](videos/voila_example.mov)
+![Viola](Images/voila_rec.gif)
 
 ---
 
